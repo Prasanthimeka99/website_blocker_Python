@@ -7,10 +7,11 @@ The objective of Website Blocker python project is to block the given websites w
 # program Architecture
 1.Every system have host file.It maps the host name to Ip address.In this program we will map  hostnames of websites to our localhost address.
    host file in windows: C:\Windows\System32\drivers\etc
-2.Now add some websites to the wesite_list.
-    website_list=["facebook.com","www.facebook.com","www.instagram.com"]
    
-   ![image](https://user-images.githubusercontent.com/102249618/159979227-6a669891-2760-4dd3-9280-c4b4f6116508.png)
+2.Now add some websites to the wesite_list.
+      
+      ![image](https://user-images.githubusercontent.com/102249618/159979835-7f6eeab6-2030-49f8-afaa-de5d265aa5c2.png)
 
+    
   
 
