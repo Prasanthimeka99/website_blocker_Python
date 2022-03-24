@@ -10,7 +10,8 @@ The objective of Website Blocker python project is to block the given websites w
    
 2.Now add some websites to the wesite_list.
 
-                   ![image](https://user-images.githubusercontent.com/102249618/159980293-547ca0ee-5b40-44b2-9173-68b6b1f3f05a.png)
+                   ![image](https://user-images.githubusercontent.com/102249618/159980609-2957a369-0f62-4a2a-b719-1654ee2cb4bc.png)
+
 
       
       
