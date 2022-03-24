@@ -9,11 +9,5 @@ The objective of Website Blocker python project is to block the given websites w
    host file in windows: C:\Windows\System32\drivers\etc
    
 2.Now add some websites to the wesite_list.
-          
 
-
-      
-      
-    
-  
-
+![image](https://user-images.githubusercontent.com/102249618/159981116-807fbbf0-6054-40d7-b455-b8101c31d28e.png)
