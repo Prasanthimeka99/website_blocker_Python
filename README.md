@@ -24,3 +24,6 @@ This is what a sample hosts file may look like. Here we are linking the Facebook
 
 When we try to access the Facebook website, the broswer will redirect us to our localhost IP address instead. Since the Facebook website does not exist on our localhost, the broswer will give us back an error page instead. This is the error page that the browser gives us when we try to access Facebook.
 
+![image](https://user-images.githubusercontent.com/102249618/159984273-0a75b716-6d4e-4cb1-a9d8-4d22f1d0117e.png)
+
+If the current date is not present in between start and end date, then it will open the hosts file and remove the website names so that they will not be blocked anymore using the truncate() method.
